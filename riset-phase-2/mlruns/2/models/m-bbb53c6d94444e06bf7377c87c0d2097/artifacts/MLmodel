@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/EdselSpth/Documents/riset-phase-2/mlruns/2/models/m-bbb53c6d94444e06bf7377c87c0d2097/artifacts
+flavors:
+  lightgbm:
+    code: null
+    data: model.pkl
+    lgb_version: 4.7.0
+    model_class: lightgbm.sklearn.LGBMRanker
+    serialization_format: cloudpickle
+    skops_trusted_types: null
+  python_function:
+    data: model.pkl
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.11.0
+mlflow_version: 3.15.1
+model_id: m-bbb53c6d94444e06bf7377c87c0d2097
+model_size_bytes: 148440
+model_uuid: m-bbb53c6d94444e06bf7377c87c0d2097
+prompts: null
+run_id: 4858b140a004453db43fd2b82cdf9e9e
+utc_time_created: '2026-08-14 01:13:43.684191'

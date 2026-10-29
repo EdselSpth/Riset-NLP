@@ -1,0 +1,9 @@
+{
+  "NDCG_at_5": 0.998475,
+  "NDCG_at_10": 0.994412,
+  "MAP": 0.979348,
+  "Spearman": 0.667901,
+  "Spearman_pvalue": 1.0688390644530851e-16,
+  "KendallTau": 0.513908,
+  "KendallTau_pvalue": 5.678480795086523e-15
+}
