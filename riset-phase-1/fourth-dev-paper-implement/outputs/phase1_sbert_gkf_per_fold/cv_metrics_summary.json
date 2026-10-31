@@ -1,0 +1,16 @@
+{
+  "NDCG@5_mean": 0.7074337915047292,
+  "NDCG@5_std": 0.0582366305441693,
+  "NDCG@10_mean": 0.7488234874351395,
+  "NDCG@10_std": 0.04259633499561287,
+  "MAP_mean": 0.7161593355703991,
+  "MAP_std": 0.050602179391592506,
+  "Spearman_mean": 0.15944683720382014,
+  "Spearman_std": 0.14042716912905345,
+  "Spearman_pvalue_mean": 0.540939736060329,
+  "Spearman_pvalue_std": 0.42285561457133547,
+  "KendallTau_mean": 0.1276224658087251,
+  "KendallTau_std": 0.11256557166738468,
+  "KendallTau_pvalue_mean": 0.5353121924963163,
+  "KendallTau_pvalue_std": 0.4138219022444899
+}
